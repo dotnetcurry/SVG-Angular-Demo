@@ -1,0 +1,16 @@
+html {
+  min-height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.body-content {
+  height: 100%;
+  padding: 2px;
+}
+
+svg {
+  border: solid 1px lightgray;
+}
